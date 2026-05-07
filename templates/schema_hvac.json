@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HVACBusiness",
+  "name": "Ethical HVAC Austin - Transparent Pricing & Trusted Repair",
+  "description": "Austin's most transparent heating and air conditioning repair service. No hidden fees, no surprise pricing, just honest work.",
+  "url": "https://your-hvac-site-austin.com",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Austin",
+    "addressRegion": "TX",
+	"addressCountry": "US"
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Austin"
+    },
+    {
+      "@type": "City",
+      "name": "Round Rock"
+    },
+    {
+      "@type": "City",
+      "name": "Pflugerville"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "HVAC Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Emergency AC Repair",
+          "description": "Rapid response for broken air conditioning with transparent, upfront pricing."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Heating System Maintenance",
+          "description": "Preventative heating maintenance to avoid costly winter breakdowns."
+        }
+      }
+    ]
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "128"
+  }
+}

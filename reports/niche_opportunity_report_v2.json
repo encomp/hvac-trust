@@ -1,0 +1,87 @@
+[
+    {
+        "niche": "Junk Removal",
+        "city": "Austin, TX",
+        "businesses_scanned": 10,
+        "trust_gaps_found": [],
+        "status": "Complete"
+    },
+    {
+        "niche": "Tree Service",
+        "city": "Austin, TX",
+        "businesses_scanned": 10,
+        "trust_gaps_found": [],
+        "status": "Complete"
+    },
+    {
+        "niche": "HVAC Repair",
+        "city": "Austin, TX",
+        "businesses_scanned": 0,
+        "trust_gaps_found": [],
+        "status": "Complete"
+    },
+    {
+        "niche": "Pest Control",
+        "city": "Austin, TX",
+        "businesses_scanned": 10,
+        "trust_gaps_found": [],
+        "status": "Complete"
+    },
+    {
+        "niche": "Foundation Repair",
+        "city": "Austin, TX",
+        "businesses_scanned": 10,
+        "trust_gaps_found": [],
+        "status": "Complete"
+    },
+    {
+        "niche": "Roofing Contractor",
+        "city": "Austin, TX",
+        "businesses_scanned": 10,
+        "trust_gaps_found": [],
+        "status": "Complete"
+    },
+    {
+        "niche": "Drain Cleaning",
+        "city": "Austin, TX",
+        "businesses_scanned": 0,
+        "trust_gaps_found": [],
+        "status": "Complete"
+    },
+    {
+        "niche": "Handyman Services",
+        "city": "Austin, TX",
+        "businesses_scanned": 0,
+        "trust_gaps_found": [],
+        "status": "Complete"
+    },
+    {
+        "nche": "HVAC Repair",
+        "city": "Austin, TX",
+        "urls_inspected": 3,
+        "trust_gaps_found": [
+            {
+                "url": "https://www.yelp.com/search?cflt=hvac&find_loc=Austin,+TX",
+                "source_snippet": "What are people saying about heating & air conditioning/hvac services in Austin, TX? This is a review for a heating & air conditioning/hvac business in Austin, TX: \"I had a rental property lose heat on the worst day of the year when everything was frozen over. John went out and skated his truck to my rental, resolved the issue, and charged me as if there was no weather shut down. Highly ...",
+                "detected_triggers": [
+                    "worst"
+                ]
+            }
+        ],
+        "status": "Complete"
+    },
+    {
+        "nche": "Pest Control",
+        "city": "Austin, TX",
+        "urls_inspected": 3,
+        "trust_gaps_found": [],
+        "status": "Complete"
+    },
+    {
+        "nche": "Foundation Repair",
+        "city": "Austin, TX",
+        "urls_inspected": 3,
+        "trust_gaps_found": [],
+        "status": "Complete"
+    }
+]
